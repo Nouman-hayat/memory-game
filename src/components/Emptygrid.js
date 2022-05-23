@@ -7,12 +7,7 @@ export default function Emptygrid() {
             
             
     
-        <Emptycard />
-        <Emptycard />
-        <Emptycard />
-        <Emptycard />
-        <Emptycard />
-        <Emptycard />
+       
         <Emptycard />
         <Emptycard />
         <Emptycard />
