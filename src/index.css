@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
 *{
   margin: 0;
   padding: 0;
@@ -6,7 +8,7 @@ html, body{
   height: 100%;
 }
 body{
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Poppins', sans-serif;
   background-color: #36efdc;
   display: flex;
   justify-content: center;
@@ -103,6 +105,8 @@ font-size: 20px;
   padding: 10px 40px;
   outline: none;
   border: none;
+  font-weight: 400;
+  font-size: 15px;
 }.start-btn{
   color:white;
   background-color: green;
